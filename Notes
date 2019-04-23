@@ -1,0 +1,14 @@
+Samenvatting Chapter 3 functions
+Ondanks dat het in de realiteit vaak niet gebeurt is nieuwe woorden maken in programmeren onmisbaar. Dit is om functies herkenbaar en herbruikbaar te maken.
+
+Om repeteren te voorkomen moeten er nieuwe concepten geïntroduceerd worden. Dit omdat er te weinig woorden in de vocabulaire bestaan.
+Functies worden aangemaakt met een set parameters. 
+In de functie staat een set instructies die worden uitgevoerd als de functie wordt aangeroepen. Er moeten altijd haakjes gebruikt worden voor een functie zelfs als deze maar uit 1 instructie bestaan. Je kan aan een functie meerdere parameters meegeven, of juist geen.
+
+Sommige functies geven een resultaat terwijl andere een side effect geven. Een return statement bepaald wat de waarde is van de return van een functie.
+Er zijn diverse manieren hoe je een function kan gebruiken, zo kunt je een function in een function gebruiken of een kleinere functie met => schrijven.
+
+Je kan een functie zichzelf laten aanroepen binnen de functie, dit noem je recursion.
+Je moet alleen opletten dat dit niet teveel gebeurt want dan krijg je een stack overflow.
+Over het algemeen zijn loops sneller dan een functie meerdere keren aanroepen.
+
