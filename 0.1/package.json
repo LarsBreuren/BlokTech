@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "be-course-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "scripts": { "start" : "bar ./test" } }
+  },
+  "repository": {
+    "type": "git",
+    "url": "BlokTech"
+  },
+  "keywords": [
+    "first",
+    "package",
+    "be",
+    "course",
+    "1"
+  ],
+  "author": "lars breuren",
+  "license": "ISC",
+  "dependencies": {
+    "compressorjs": "^1.0.5"
+  }
+}
